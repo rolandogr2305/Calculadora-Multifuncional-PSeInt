@@ -83,12 +83,11 @@ Etapa	Descripción	Ejemplo de commit
 5. Fibonacci	Generación de la sucesión matemática	feat: implementar módulo de Fibonacci
 6. Documentación final	Comentarios y documentación formal	docs: agregar comentarios y README completo
 7. Versión final	Verificación y pruebas de compatibilidad	fix: corregir errores menores y finalizar proyecto
-📂 Estructura del repositorio
-📦 CalculadoraMultifuncional
- ┣ 📜 Calculadora_Multifuncional.psc   // Código completo en PSeInt
- ┣ 📘 README.md                        // Documentación formal (este archivo)
- ┣ 🗂️ /diagramas                       // Diagramas de flujo (opcional)
- ┗ 📄 LICENSE                          // Licencia opcional
+   Estructura del repositorio
+   CalculadoraMultifuncional
+    Calculadora_Multifuncional.psc   // Código completo en PSeInt
+    README.md                        // Documentación formal (este archivo)
+                        // Diagrama de flujo
 
 🚀 Ejecución
 
@@ -102,6 +101,6 @@ Seguir las instrucciones del menú interactivo.
 
 👤 Autor
 
-Tu Nombre Completo
+Rolando Garcia Reyes
 Desarrollador y documentador del proyecto.
 Proyecto realizado de manera individual.
